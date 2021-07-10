@@ -278,8 +278,8 @@ nav{
     margin: auto;
     background-color: #222222;
     overflow: hidden;
-    aspect-ratio: 4/3;
-    /* height: 250px; */
+/*     aspect-ratio: 4/3; */
+    height: 250px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
