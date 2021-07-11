@@ -359,6 +359,7 @@ nav{
 .portfolio-content{
     display: flex;
     justify-content: center;
+     align-items: center;
 }
 .portfolio-text{
     text-align: center;
@@ -407,6 +408,23 @@ nav{
     cursor: pointer;
     margin: auto;
 }
+.gallary-cta{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.gallary-cta button{
+    background-color: var(--highlight-color);
+    padding: 10px 20px;
+    border: none;
+
+    
+}
+.gallary-cta a:hover{
+    color: #fff;
+}
+
 
 
 /* *****************************************testimonials****************************************************** */
